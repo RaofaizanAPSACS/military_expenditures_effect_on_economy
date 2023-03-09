@@ -3,6 +3,10 @@ To analyze the effect of military expenditures on economy of pakistan.
 
 Firstly, analyzed the effect of terrorism attacks on the FDI growth of Pakistan. Then, compared the military expenditures data with the terrorism attacks data.
 
+## Spearman Correlation Result Between FDI and Terrorism Data:
+
+Correlation Score: -0.510989010989011
+
 ## Graphical Analysis:
 <img src="plots/plot_img.png"></img>
 
